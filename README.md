@@ -6,12 +6,18 @@
 # Table Of Contents
 
 * [Description](#description)
+* [Framework](#framework)
 * [Installation](#installation)
 * [User's Guide](#users-guide)
 * [Testing](#testing)
 
 # Description
-A to-do list application built using HTML, CSS, Javascript, and Bootstrap.
+A to-do list application that allows users to manage tasks based on status (To-Do, In Progress, In Review, or Done).
+
+# Framework
+- HTML
+- CSS
+- Javascript
 
 # Installation
 Clone the repository.
