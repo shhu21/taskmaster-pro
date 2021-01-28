@@ -23,7 +23,7 @@ A to-do list application that allows users to manage tasks based on status (To-D
 Clone the repository.
 
 # User's Guide
-As mentioned in the [Installation](#installation) instructions, users may clone the respository to access the code base or navigate to the [Website Link](#website-link).
+As mentioned in the [Installation](#installation) instructions, users may clone the repository to access the code base or navigate to the [Website Link](#website-link).
 
 # Testing
 Follow the [Installation](#installation) instructions to perform manual testing.
